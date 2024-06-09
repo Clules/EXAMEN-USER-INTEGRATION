@@ -1,0 +1,32 @@
+.button-menu {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.button-menu:hover {
+  background-color: gray;
+  color: black;
+}
+
+.button-menu2 {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.button-menu2:hover {
+  background-color: gray;
+  color: black;
+}
+
+.button-menu3 {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+.button-menu3:hover {
+  background-color: gray;
+  color: black;
+}

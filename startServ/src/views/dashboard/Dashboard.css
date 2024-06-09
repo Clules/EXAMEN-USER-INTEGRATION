@@ -1,0 +1,12 @@
+.cardUser {
+  background-color: black;
+  border: solid 2px black;
+  border-color: none;
+  border-radius: 8px;
+}
+
+.cardUser:hover {
+  background-color: gray;
+  border-radius: 8px;
+  border: solid 2px white;
+}
